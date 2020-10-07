@@ -6,7 +6,8 @@ namespace V41HotelGithub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Hotel!");
+            Console.ReadKey();
         }
     }
 }
